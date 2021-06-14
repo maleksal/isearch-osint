@@ -1,0 +1,6 @@
+face_recognition_models
+instagram_private_api
+numpy>=1.20.3
+Pillow==8.2.0
+click>=8.0.1
+opencv-python>=4.5.2.54
