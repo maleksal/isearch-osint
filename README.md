@@ -2,7 +2,7 @@
 
 Face recognition reverse image search on Instagram profile feed photos. 
 
-<img src="/home/cyber/Downloads/carbon(1).png" alt="carbon(1)" style="zoom:100%;" />
+<img src="https://github.com/maleksal/isearch-osint/blob/main/carbon.png" alt="carbon(1)" style="zoom:100%;" />
 
 Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! **
 
